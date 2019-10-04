@@ -1,0 +1,11 @@
+C:\Users\patri\Desktop\bewijzenmap\periode1.1\pro2\rockpaperscissors\bin\Debug\netcoreapp2.2\rockpaperscissors.deps.json
+C:\Users\patri\Desktop\bewijzenmap\periode1.1\pro2\rockpaperscissors\bin\Debug\netcoreapp2.2\rockpaperscissors.runtimeconfig.json
+C:\Users\patri\Desktop\bewijzenmap\periode1.1\pro2\rockpaperscissors\bin\Debug\netcoreapp2.2\rockpaperscissors.runtimeconfig.dev.json
+C:\Users\patri\Desktop\bewijzenmap\periode1.1\pro2\rockpaperscissors\bin\Debug\netcoreapp2.2\rockpaperscissors.dll
+C:\Users\patri\Desktop\bewijzenmap\periode1.1\pro2\rockpaperscissors\bin\Debug\netcoreapp2.2\rockpaperscissors.pdb
+C:\Users\patri\Desktop\bewijzenmap\periode1.1\pro2\rockpaperscissors\obj\Debug\netcoreapp2.2\rockpaperscissors.csprojAssemblyReference.cache
+C:\Users\patri\Desktop\bewijzenmap\periode1.1\pro2\rockpaperscissors\obj\Debug\netcoreapp2.2\rockpaperscissors.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\bewijzenmap\periode1.1\pro2\rockpaperscissors\obj\Debug\netcoreapp2.2\rockpaperscissors.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\bewijzenmap\periode1.1\pro2\rockpaperscissors\obj\Debug\netcoreapp2.2\rockpaperscissors.AssemblyInfo.cs
+C:\Users\patri\Desktop\bewijzenmap\periode1.1\pro2\rockpaperscissors\obj\Debug\netcoreapp2.2\rockpaperscissors.dll
+C:\Users\patri\Desktop\bewijzenmap\periode1.1\pro2\rockpaperscissors\obj\Debug\netcoreapp2.2\rockpaperscissors.pdb
